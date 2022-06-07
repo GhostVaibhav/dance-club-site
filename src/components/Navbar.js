@@ -7,27 +7,27 @@ export class Navbar extends Component {
             <div className='flex justify-between items-center text-white' style={{ "backgroundColor": "#2B2C2A" }}>
                 {/* Logo */}
                 <div className='p-4'>
-                    <img src={Logo} className='h-auto w-1/4 md:w-1/2' />
+                    <img alt='DC Logo' src={Logo} className='h-auto w-1/4 md:w-1/2' />
                 </div>
                 {/* Menu */}
                 <div className='flex'>
                     <div className='p-2 md:p-4 text-sm md:text-2xl' style={{ "fontFamily": "Yanone Kaffeesatz" }}>
-                        <a href='#' className='hover:text-[#FF620E]'>
+                        <a href='/' className='hover:text-[#FF620E]'>
                             HOME
                         </a>
                     </div>
                     <div className='p-2 md:p-4 text-sm md:text-2xl' style={{ "fontFamily": "Yanone Kaffeesatz" }}>
-                        <a href='#' className='hover:text-[#FF620E]'>
+                        <a href='/' className='hover:text-[#FF620E]'>
                             ABOUT US
                         </a>
                     </div>
                     <div className='p-2 md:p-4 text-sm md:text-2xl' style={{ "fontFamily": "Yanone Kaffeesatz" }}>
-                        <a href='#' className='hover:text-[#FF620E]'>
+                        <a href='/' className='hover:text-[#FF620E]'>
                             AWARDS
                         </a>
                     </div>
                     <div className='p-2 md:p-4 text-sm md:text-2xl' style={{ "fontFamily": "Yanone Kaffeesatz" }}>
-                        <a href='#' className='hover:text-[#FF620E]'>
+                        <a href='/' className='hover:text-[#FF620E]'>
                             JOIN US
                         </a>
                     </div>
