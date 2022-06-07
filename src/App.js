@@ -1,21 +1,12 @@
+import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 
 function App() {
 	return (
 		<>
 			<Navbar />
-			{/* <div className="App">
-				<p className='flex h-screen w-screen items-center justify-center'>
-					<h1 className='text-5xl inline-flex'>
-						<p className='font-bold'>
-							Namaste
-						</p>
-						<p>
-							World!
-						</p>
-					</h1>
-				</p>
-			</div> */}
+			Kuch bhi aise hi
+			<Footer />
 		</>
 	);
 }
