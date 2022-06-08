@@ -1,6 +1,6 @@
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
-import About from "./components/About";
+// import About from "./components/About";
 import Query from "./components/Query";
 
 function App() {
