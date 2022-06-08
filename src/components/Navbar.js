@@ -11,22 +11,22 @@ export class Navbar extends Component {
                 </div>
                 {/* Menu */}
                 <div className='flex'>
-                    <div className='p-2 md:p-4 text-xl md:text-2xl' style={{ "fontFamily": "Yanone Kaffeesatz" }}>
+                    <div className='p-2 md:p-4 text-md md:text-2xl' style={{ "fontFamily": "Yanone Kaffeesatz" }}>
                         <a href='/' className='hover:text-[#FF620E]'>
                             HOME
                         </a>
                     </div>
-                    <div className='p-2 md:p-4 text-xl md:text-2xl' style={{ "fontFamily": "Yanone Kaffeesatz" }}>
+                    <div className='p-2 md:p-4 text-md md:text-2xl' style={{ "fontFamily": "Yanone Kaffeesatz" }}>
                         <a href='/' className='hover:text-[#FF620E]'>
                             ABOUT US
                         </a>
                     </div>
-                    <div className='p-2 md:p-4 text-xl md:text-2xl' style={{ "fontFamily": "Yanone Kaffeesatz" }}>
+                    <div className='p-2 md:p-4 text-md md:text-2xl' style={{ "fontFamily": "Yanone Kaffeesatz" }}>
                         <a href='/' className='hover:text-[#FF620E]'>
                             AWARDS
                         </a>
                     </div>
-                    <div className='p-2 md:p-4 text-xl md:text-2xl' style={{ "fontFamily": "Yanone Kaffeesatz" }}>
+                    <div className='p-2 md:p-4 text-md md:text-2xl' style={{ "fontFamily": "Yanone Kaffeesatz" }}>
                         <a href='/' className='hover:text-[#FF620E]'>
                             JOIN US
                         </a>
