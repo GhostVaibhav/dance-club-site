@@ -4,14 +4,18 @@ import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Teams from "./components/Teams";
 import Query from "./components/Query";
+import Awards from "./components/Awards";
+import Quote from "./components/Quote";
 
 function App() {
 	return (
 		<>
 			<Navbar />
 			<Intro />
-			{/* <About /> */}
-			{/* <Teams /> */}
+			<About />
+			<Teams />
+			<Awards />
+			<Quote />
 			<Query />
 			<Footer />
 		</>
