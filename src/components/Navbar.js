@@ -7,7 +7,7 @@ export class Navbar extends Component {
             <div className='flex justify-between items-center text-white' style={{ "backgroundColor": "#2B2C2A" }}>
                 {/* Logo */}
                 <div className='p-4'>
-                    <img alt='DC Logo' src={Logo} className='h-auto w-1/4 md:w-1/2' />
+                    <img alt='DC Logo' src={Logo} className='w-1/4 md:w-1/2' />
                 </div>
                 {/* Menu */}
                 <div className='flex'>
