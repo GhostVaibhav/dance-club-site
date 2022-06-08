@@ -6,6 +6,9 @@ import Teams from "./components/Teams";
 // import About from "./components/About";
 import Query from "./components/Query";
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
+// import About from "./components/About";
+// import Teams from "./components/Teams";
+
 
 function App() {
 	return (
@@ -17,6 +20,8 @@ function App() {
 			Kuch bhi aise hi
 			{/* <About /> */}
 			<Query />
+			{/* <About />
+			<Teams /> */}
 			<Footer />
 		</>
 	);
