@@ -9,7 +9,7 @@ export class Intro extends Component {
     render() {
         return (
             <div className='relative'>
-                <div className='relative bg-[#2C2B2A] md:bg-inherit md:absolute z-10 text-white p-8 bottom-0 left-0 md:max-w-lg'>
+                <div className='relative bg-[#2C2B2A] md:bg-inherit md:absolute z-10 text-white p-8 top-0 left-0 md:max-w-lg'>
                     <div className='text-5xl md:text-7xl' style={{ "fontFamily": "Yanone Kaffeesatz" }}>
                         DANCE CLUB VIT
                     </div>
