@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/dance-club-site/static/css/main.290d5faa.css",
-    "main.js": "/dance-club-site/static/js/main.185809fb.js",
+    "main.css": "/dance-club-site/static/css/main.ba01a23f.css",
+    "main.js": "/dance-club-site/static/js/main.de1a4f96.js",
     "static/js/787.045f3af3.chunk.js": "/dance-club-site/static/js/787.045f3af3.chunk.js",
     "static/media/img_3.jpg": "/dance-club-site/static/media/img_3.72aeb4670530fe211467.jpg",
     "static/media/img_2.jpg": "/dance-club-site/static/media/img_2.925c0425d5a0b7b412ea.jpg",
     "static/media/img_1.jpg": "/dance-club-site/static/media/img_1.318310d00e63f529f87d.jpg",
     "static/media/img_4.jpg": "/dance-club-site/static/media/img_4.73f7370eb95ca90189f6.jpg",
     "index.html": "/dance-club-site/index.html",
-    "main.290d5faa.css.map": "/dance-club-site/static/css/main.290d5faa.css.map",
-    "main.185809fb.js.map": "/dance-club-site/static/js/main.185809fb.js.map",
+    "main.ba01a23f.css.map": "/dance-club-site/static/css/main.ba01a23f.css.map",
+    "main.de1a4f96.js.map": "/dance-club-site/static/js/main.de1a4f96.js.map",
     "787.045f3af3.chunk.js.map": "/dance-club-site/static/js/787.045f3af3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.290d5faa.css",
-    "static/js/main.185809fb.js"
+    "static/css/main.ba01a23f.css",
+    "static/js/main.de1a4f96.js"
   ]
 }
