@@ -4,7 +4,7 @@ export class Query extends Component {
     render() {
         return (
             <div className='flex justify-center bg-[#FF620E]'>
-                <div className='flex flex-col items-center p-6 max-w-xl'>
+                <div className='flex flex-col items-center p-6 max-w-screen-xl'>
                     {/* Title */}
                     <div className='text-4xl pt-4 p-2 text-white' style={{ "fontFamily": "Yanone Kaffeesatz" }}>
                         LET US KNOW
