@@ -17,11 +17,7 @@ function App() {
 			<Intro />
 			<About />
 			<Teams />
-			Kuch bhi aise hi
-			{/* <About /> */}
 			<Query />
-			{/* <About />
-			<Teams /> */}
 			<Footer />
 		</>
 	);
