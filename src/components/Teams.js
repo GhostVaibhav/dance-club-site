@@ -9,43 +9,43 @@ export default function Teams() {
                 <p className="text-center text-white pt-10 pl-60 pr-60 text-lg tracking-wider" style={{ "fontFamily": "Montserrat" }}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora itaque incidunt ad maxime nostrum error corporis voluptate illo nisi optio. Quas eius architecto ipsa accusamus placeat cupiditate voluptates! Numquam quasi minus laborum possimus fugiat excepturi itaque exercitationem velit, modi dolorum.</p>
                 <div className="text-center grid grid-cols-3 justify-items-center gap-4 mt-20 pb-20" style={{ "fontFamily": "Montserrat" }}>
                     <div class="max-w-sm rounded overflow-hidden shadow-lg">
-                        <img class="w-auto" src={car1} alt="Sunset in the mountains" />
+                        <img class="w-auto" src={car1} alt="dance club" />
                         <div class="px-6 py-4 bg-[#494949]">
                             <p class="font-bold text-xl">Bollywood Badmash Company</p>
                         </div>
                     </div>
                     <div class="max-w-sm rounded overflow-hidden shadow-lg">
-                        <img class="w-auto" src={car1} alt="Sunset in the mountains" />
+                        <img class="w-auto" src={car1} alt="dance club" />
                         <div class="px-6 py-4 bg-[#494949]">
                             <p class="font-bold text-xl">Bollywood Badmash Company</p>
                         </div>
                     </div>
                     <div class="max-w-sm rounded overflow-hidden shadow-lg">
-                        <img class="w-auto" src={car1} alt="Sunset in the mountains" />
+                        <img class="w-auto" src={car1} alt="dance club" />
                         <div class="px-6 py-4 bg-[#494949]">
                             <p class="font-bold text-xl">Bollywood Badmash Company</p>
                         </div>
                     </div>
                     <div class="max-w-sm rounded overflow-hidden shadow-lg">
-                        <img class="w-auto" src={car1} alt="Sunset in the mountains" />
+                        <img class="w-auto" src={car1} alt="dance club" />
                         <div class="px-6 py-4 bg-[#494949]">
                             <p class="font-bold text-xl">Bollywood Badmash Company</p>
                         </div>
                     </div>
                     <div class="max-w-sm rounded overflow-hidden shadow-lg">
-                        <img class="w-auto" src={car1} alt="Sunset in the mountains" />
+                        <img class="w-auto" src={car1} alt="dance club" />
                         <div class="px-6 py-4 bg-[#494949]">
                             <p class="font-bold text-xl">Bollywood Badmash Company</p>
                         </div>
                     </div>
                     <div class="max-w-sm rounded overflow-hidden shadow-lg">
-                        <img class="w-auto" src={car1} alt="Sunset in the mountains" />
+                        <img class="w-auto" src={car1} alt="dance club" />
                         <div class="px-6 py-4 bg-[#494949]">
                             <p class="font-bold text-xl">Bollywood Badmash Company</p>
                         </div>
                     </div>
                     <div class="max-w-sm rounded overflow-hidden shadow-lg">
-                        <img class="w-auto" src={car1} alt="Sunset in the mountains" />
+                        <img class="w-auto" src={car1} alt="dance club" />
                         <div class="px-6 py-4 bg-[#494949]">
                             <p class="font-bold text-xl">Bollywood Badmash Company</p>
                         </div>
