@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "/dance-club-site/static/css/main.a9eae8a9.css",
-    "main.js": "/dance-club-site/static/js/main.49e374ab.js",
+    "main.css": "/dance-club-site/static/css/main.071e68e8.css",
+    "main.js": "/dance-club-site/static/js/main.2a535f24.js",
     "static/js/787.045f3af3.chunk.js": "/dance-club-site/static/js/787.045f3af3.chunk.js",
     "static/media/img_3.jpg": "/dance-club-site/static/media/img_3.72aeb4670530fe211467.jpg",
     "static/media/img_2.jpg": "/dance-club-site/static/media/img_2.925c0425d5a0b7b412ea.jpg",
     "static/media/img_1.jpg": "/dance-club-site/static/media/img_1.318310d00e63f529f87d.jpg",
+    "static/media/Maya.png": "/dance-club-site/static/media/Maya.f0169628d984c2f7fcc1.png",
+    "static/media/Chargers.jpg": "/dance-club-site/static/media/Chargers.a32145b31853e110e7fc.jpg",
+    "static/media/JnJ.jpg": "/dance-club-site/static/media/JnJ.f816918bb16326f123c3.jpg",
+    "static/media/Riwaayat.jpg": "/dance-club-site/static/media/Riwaayat.afaa98f4ad0d5d26f216.jpg",
+    "static/media/Mirage.jpg": "/dance-club-site/static/media/Mirage.b4262f3d1f1086896360.jpg",
     "static/media/img_4.jpg": "/dance-club-site/static/media/img_4.73f7370eb95ca90189f6.jpg",
+    "static/media/Unitrix.jpg": "/dance-club-site/static/media/Unitrix.9fca13de4b57eab1b711.jpg",
+    "static/media/BBC.jpg": "/dance-club-site/static/media/BBC.d1eee95f98ad5ac99e02.jpg",
     "index.html": "/dance-club-site/index.html",
-    "main.a9eae8a9.css.map": "/dance-club-site/static/css/main.a9eae8a9.css.map",
-    "main.49e374ab.js.map": "/dance-club-site/static/js/main.49e374ab.js.map",
+    "main.071e68e8.css.map": "/dance-club-site/static/css/main.071e68e8.css.map",
+    "main.2a535f24.js.map": "/dance-club-site/static/js/main.2a535f24.js.map",
     "787.045f3af3.chunk.js.map": "/dance-club-site/static/js/787.045f3af3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9eae8a9.css",
-    "static/js/main.49e374ab.js"
+    "static/css/main.071e68e8.css",
+    "static/js/main.2a535f24.js"
   ]
 }
