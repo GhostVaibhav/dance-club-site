@@ -6,6 +6,7 @@ import Teams from "./components/Teams";
 import Query from "./components/Query";
 import Awards from "./components/Awards";
 import Quote from "./components/Quote";
+import Events from "./components/Events";
 
 function App() {
 	return (
@@ -15,6 +16,7 @@ function App() {
 			<About />
 			<Teams />
 			<Awards />
+			<Events />
 			<Quote />
 			<Query />
 			<Footer />
